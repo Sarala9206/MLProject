@@ -19,11 +19,13 @@
 
 
 ```bash
-conda create -n mlproj python=3.9 -y 
+conda create -n mlproj python=3.10 -y 
 ```
 
 ```bash
 conda activate mlproj
+or 
+source activate mlproj
 ```
 
 
