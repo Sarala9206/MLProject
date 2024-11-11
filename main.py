@@ -1,3 +1,3 @@
-from src.mlProject.logging import logger
+from mlproject import logger
 
-logger.info("This is out custom lof!")
+logger.info("This is out custom log!")
