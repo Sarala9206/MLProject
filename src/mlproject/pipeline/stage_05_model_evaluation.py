@@ -1,5 +1,5 @@
 from mlproject.config.configuration import ConfigurationManager
-from mlproject.components.model_evaluation import ModelEvaluation
+from mlproject.components.model_evalution import ModelEvaluation
 from mlproject import logger
 
 

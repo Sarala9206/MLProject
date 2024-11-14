@@ -5,7 +5,8 @@ from mlproject.pipeline.stage_03_data_transformation import DataTransformationTr
 from mlproject.pipeline.stage_04_model_trainer import ModelTrainerTrainingPipeline
 from mlproject.pipeline.stage_05_model_evaluation import ModelEvaluationTrainingPipeline
 
-
+import sys
+sys.path.append("C:/Users/saral/Desktop/projects/MLProject/src")
 
 STAGE_NAME = "Data Ingestion stage"
 try:
